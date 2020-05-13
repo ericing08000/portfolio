@@ -1,0 +1,62 @@
+
+body {      
+    font-family: 'Quicksand', sans-serif;
+     position: relative;
+  }
+
+/* utilities */
+.padding-150 {
+    padding-top: 150px;
+    padding-bottom: 0px;
+    }
+
+.padding-50 {
+    padding: 50px;
+    min-height:100vh;}
+
+.padding-10 {
+    padding: 10px;}
+
+.bg-dark {
+    background: #212529;}
+
+.bg-cloud {
+    background: rgb(236, 240, 241);}
+
+.text-cloud {
+    color: rgb(236, 240, 241);}
+
+.text-dark {
+    color: #212529;}
+
+.h-100 {
+    height: 100px;}
+
+.h-250 {
+    height: 250px;}
+
+.paddingZero {
+    padding: 0;}
+
+.padding-10 {
+    padding: 10px;}
+
+.font-60 {
+    font-size: 60px;}
+
+.font-70 {
+    font-size: 70px;}
+
+.font-80 {
+   font-size: 80px;}
+
+
+/* header */
+.bg {
+    background: url("../images/desk.jpg");
+    width: 100%;
+    height: 262px;}
+
+#service , #tips{
+    min-height:100vh;
+}
