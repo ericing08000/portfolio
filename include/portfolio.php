@@ -60,7 +60,7 @@
                             <div class="card-body">
                             <h5 class="card-title text-dark">Jeu du dada en POO</h5>
                             <p class="card-text text-dark">J'ai choisi de réaliser un jeu de dada en Programmmation Orienté ogjet (P.O.O.). J'ai appris à maîtriser les functions, les classes, le constructeur etc.. Ce projet m'a également permis de réviser des notions d'algorithmique telle que les conditions, les boucles, les fonctions, etc... </p>
-                            <a href="projet/projet2/" target="_blank" class="btn btn-primary">En savoir plus</a>
+                            <a href="projet/projet4/" target="_blank" class="btn btn-primary">En savoir plus</a>
                             </div>
                         </div>    
                     </div>
