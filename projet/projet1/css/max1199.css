@@ -1,0 +1,200 @@
+
+/* Général */
+body{
+    background-color: #221f1f;
+} 
+
+
+
+/* Barre de navigation */
+nav a{
+    text-decoration: none;
+    font-size: 0.8em;
+    color: gray;
+}
+
+nav a:hover{
+    color: white;
+}
+
+nav img{
+    float: left;
+    margin-left:10em    
+}
+
+nav{
+    width: 1199px;
+    margin:auto;
+    padding-bottom: 1em;
+    max-width:100%;}
+
+nav li{
+    display: block;
+    margin-right: 1.5em;
+    float: right;}
+
+nav ul{list-style-type: none;}
+nav .ul_burger{display:none;}
+nav .dropbtn{display: none;}
+
+
+/* #Home */
+#home{
+    clear: both;
+    background-image: url("../images/hero-image.jpg");
+    max-width:100%;
+    margin: auto;
+    width:1199px;
+    height: 620px;}
+
+.title{
+    width: 863px;
+    margin: auto;
+    padding-top: 0.5em;
+    margin-top: 0em;
+    text-align: center;
+    font-family: "arvo";
+    font-size: 3.5em;
+    color: white;}
+
+.subtitle{
+    width: 800px;
+    margin: auto;
+    margin-top: 1em;
+    text-align: center;
+    font-family: "arvo";
+    font-size: 1.3em;
+    color: white;}
+
+#home button{
+    border-radius: 4px;
+    background: rgb(240, 63, 63);
+    border: none;
+    text-align: center;
+    color: white;
+    font-family: 'Arvo';
+    font-size: 25px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2em;
+    padding: 20px 20px;}
+
+#home button:hover{
+    background: rgb(71, 29, 29);
+    cursor: pointer;
+    border: black;}
+
+#home img{
+    padding-top: 1em;
+    display: block;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;}
+
+/* #Who */
+#who{
+    background-color: #e9e9e9;
+    margin: auto;
+    width:1199px;
+    height: 530px;
+    max-width: 100%;}
+
+#who figure{
+    margin-top: 0px;
+    padding-top: 60px;}
+
+#who img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;}
+
+.titleWho{
+    width: 950px;
+    margin: auto;
+    padding-top: 0.5em;
+    margin-top: 0em;
+    text-align: center;
+    font-family: "arvo";
+    font-size: 1.2em;
+    color: #000000;}
+
+#who h1{
+    margin-top: 0px;
+    padding: 30px;
+    text-align: center;
+    color:rgb(240, 63, 63);
+    font-family: 'arvo';}
+
+/* #get-involved */
+#get-involved{
+    background-color: rgb(245, 238, 238);
+    margin-left: auto;
+    margin-right: auto;
+    height: 600px;
+    width:1199px;
+    max-width: 100%;}
+
+.left{
+    height: 420px;
+    width:33%;
+    float:left;
+    text-align: center;}
+
+.middle{
+    height: 420px;
+    width:34%;
+    float: right;
+    text-align: center;}
+
+.right{
+    width:33%;
+    height: 420px;
+    float: right;
+    text-align: center;}
+
+#get-involved p{
+    padding: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;}
+
+#get-involved h1{
+    margin-top: 0px;
+    padding: 30px;
+    text-align: center;
+    color:rgb(240, 63, 63);
+    font-family: 'arvo';}
+
+#get-involved button{
+    color:red;
+}
+
+
+/* Footer */
+footer{
+    clear: both;
+    max-width: 100%;
+    background-color:orangered;
+    margin: auto;
+    width:1199px;
+    height: 200px;}
+
+footer img{
+    margin-top: 130px;
+    margin-left: 80px;}
+
+footer i{
+    float: right;
+    margin-top: 130px;
+    margin-right: 20px;}
+
+.barreHr{
+    color:rgb(240, 63, 63);
+    margin-left: 450px;
+    margin-right: 450px;
+    margin-bottom: 30px;
+    max-width: 100%;}
+
+.back{
+    color: black;
+}

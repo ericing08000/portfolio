@@ -7,6 +7,8 @@
     <link rel="stylesheet" href="css/bootstrap.min.css"/>
     <!-- Lien fichier CSS -->
     <link rel="stylesheet" href="css/style.css"/>
+    <!-- favicon -->
+    <link rel="shortcut icon" href="images/36829.ico">
     <!-- Font Awesome -->
     <script src="fontawesome/js/fontawesome.js"></script>
 

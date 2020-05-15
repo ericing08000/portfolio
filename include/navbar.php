@@ -2,7 +2,7 @@
 <div class="bg">
 <nav class="navbar navbar-expand-lg navbar-light fixed-top bg-info id="navbar">
     <a class="navbar-brand">
-        <img src="images/36829.png" width="40" height="40" alt="">
+        <a href="#" title="Rafraichir la page"><img src="images/36829.png" width="40" height="40" alt=""></a>
       </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#menu" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>

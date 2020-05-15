@@ -1,0 +1,166 @@
+
+/* Barre de navigation */
+.nav{
+    max-width:100%;}
+
+nav img{
+    margin-left:0em;
+    margin-bottom: 0.6em;}
+
+nav ul{
+    display: none;}
+
+
+nav .dropbtn{
+    position: relative;
+    float: right;
+    display:block;
+    cursor: pointer;}
+
+
+nav .ul_burger{
+    display: none;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    top: 28px;
+    right:-34px; 
+    width: 150px;
+    position: absolute;
+}
+
+.ul_burger li{
+    float: right;
+}
+
+.ul_burger a{
+    display: block;
+    color: white;
+    width: 120px;
+    height: 30px;
+    line-height: 35px;
+    padding-left: 20px;
+    text-decoration: none;
+    background: gray;}
+
+.ul_burger a:hover{
+    background: rgb(221, 218, 218);
+}
+
+.dropbtn:hover .ul_burger{display: block;}
+    
+/* Home */
+#home{
+    margin-top: 30px;
+    clear: both;
+    height: 460px;}
+
+.title{
+    width: 380px;
+    margin: auto;
+    padding-top: 0.5em;
+    margin-top: 0em;
+    text-align: center;
+    font-family: "arvo";
+    font-size: 1.5em;
+    color: white;}
+
+.subtitle{
+    width: 600px;
+    margin: auto;
+    margin-top: 1.5em;
+    text-align: center;
+    font-family: "arvo";
+    font-size: 0.9em;
+    color: white;
+    max-width: 100%;}
+
+#home button{
+    border-radius: 4px;
+    background: rgb(240, 63, 63);
+    border: none;
+    text-align: center;
+    color: white;
+    font-family: 'Arvo';
+    font-size: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1em;
+    padding: 15px 15px;}
+
+/* #Who */
+#who figure{
+    margin-top: 0px;
+    padding-top: 60px;}
+
+#who img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;}
+
+.titleWho{
+    width: 650px;
+    margin: auto;
+    padding-top: 0.5em;
+    margin-top: 0em;
+    text-align: center;
+    font-family: "arvo";
+    font-size: 1em;
+    color: #000000;}
+    
+/* #get-involved */
+#get-involved{
+    background-color: honeydew;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -20px;
+    height: 1450px;
+    width:991px;}
+
+.left{
+    padding-top: 20px;
+    float: none;
+    height: 400px;
+    text-align: center;  
+    width: 100%;}
+
+.middle{
+    padding-top: 20px;
+    float: none;
+    height: 400px;
+    width: 100%;
+    text-align: center;}
+
+.right{
+    padding-top: 20px;
+    float: none;
+    height: 400px;
+    width: 100%;
+    text-align: center;}
+
+/* Footer */
+footer{
+    clear: both;
+    max-width: 100%;
+    background-color:orangered;
+    margin: auto;
+    width:1199px;
+    height: 200px;}
+
+footer img{
+    height: 100px;
+    width: 350px;
+    margin-top: 80px;
+    margin-left: 10px;}
+
+footer i{
+    float: right;
+    margin-top: 130px;
+    margin-right: 20px;}
+
+.barreHr{
+    color:rgb(240, 63, 63);
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 30px;}
